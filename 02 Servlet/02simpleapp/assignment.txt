@@ -1,0 +1,18 @@
+Write a webapp to verify username and password(hardcoded)
+
+1st request
+http://localhost:8090/02simpleapp/html/login.html
+
+
+2nd request
+http://localhost:8090/02simpleapp/cluster?nme=ravi&pwd=amogh
+
+
+http://localhost:8090/02simpleapp/cluster
+
+
+
+
+
+
+

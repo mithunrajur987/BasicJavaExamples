@@ -1,0 +1,20 @@
+<taglib>
+	<tlib-version>1.2</tlib-version>
+	<jsp-version>2.0</jsp-version>
+
+	<tag>
+		<name>add</name>
+		<tag-class>com.cluster.customtag.Addition</tag-class>
+		<body-content>empty</body-content>
+		<attribute>
+			<name>x</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>y</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	</tag>
+</taglib>
